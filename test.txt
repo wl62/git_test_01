@@ -1,6 +1,12 @@
 Hallo gitworld
 
+<<<<<<< HEAD
 #eingetragen vom user1
 auch geändert from root
 
 ich ändere jetzt was
+=======
+ich ändere jetzt was
+
+ändere noch einmal
+>>>>>>> d0e6b20640c8fd6f85e7d813e3476cba2bb448ee
